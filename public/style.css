@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #eef2f3;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  form {
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 300px;
+    margin: auto;
+  }
+  
+  input, button {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
